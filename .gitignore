@@ -1,4 +1,7 @@
-# had google write this file. just generic vs 2010 gitignore.
+# Don't include curl!
+curl.exe
+
+# had google write the following. just generic vs 2010 gitignore.
 
 # Build output and temporary folders
 bin/
