@@ -16,3 +16,11 @@ Only saves login when "Remember" is checked.
 Currently uses curl 7.80 to fetch the server list. Not included.<br>
 Grab it here: https://www.npackd.org/p/se.haxx.curl.CURL/7.80<br>
 Put <code>curl.exe</code> in the "Resources" folder to compile successfully.
+
+<h3>Future plans</h3>
+<ul>
+  <li>Remove curl requirement.</li>
+  <li>Allow user to disable <code>acclient.exe</code> SHA256 hash check. Currently requires the End-of-retail EXE.</li>
+  <li>Allow sorting servers.</li>
+  <li>Save multiple accounts.</li>
+</ul>
