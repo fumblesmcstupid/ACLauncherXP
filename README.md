@@ -6,6 +6,12 @@
 Stores settings, username, password and server to the registry at <code>HKEY_CURRENT_USER\Software\ACLauncherXP</code>.<br>
 Only saves login when "Remember" is checked.
 
+<h3>To play</h3>
+<ul>
+  <li>Install the game and end-of-retail client files: https://emulator.ac/how-to-play/</li>
+  <li>Download and run <code>ACLauncherXP.exe</code> from Releases or compile it in Visual Studio.</li>
+</ul>
+
 <h3>To compile</h3>
 Currently uses curl 7.80 to fetch the server list. Not included.<br>
 Grab it here: https://www.npackd.org/p/se.haxx.curl.CURL/7.80<br>
